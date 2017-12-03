@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/chapter1/chapter1.iml" filepath="$PROJECT_DIR$/chapter1/chapter1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter2/chapter2.iml" filepath="$PROJECT_DIR$/chapter2/chapter2.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter1/eureka-client/eureka-client.iml" filepath="$PROJECT_DIR$/chapter1/eureka-client/eureka-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter1/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/chapter1/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter2/service-ribbon/service-ribbon.iml" filepath="$PROJECT_DIR$/chapter2/service-ribbon/service-ribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/zhouSpringCloudLeaning.iml" filepath="$PROJECT_DIR$/.idea/zhouSpringCloudLeaning.iml" />
     </modules>
   </component>

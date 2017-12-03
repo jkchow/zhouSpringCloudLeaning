@@ -3,6 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/chapter1/eureka-client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/chapter1/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter2/service-ribbon" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
