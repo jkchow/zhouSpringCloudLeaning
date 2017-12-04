@@ -7,9 +7,9 @@
         <option value="$PROJECT_DIR$/chapter1/eureka-server/pom.xml" />
         <option value="$PROJECT_DIR$/chapter1/eureka-client/pom.xml" />
         <option value="$PROJECT_DIR$/chapter2/pom.xml" />
-        <option value="$PROJECT_DIR$/chapter2/service-ribbon/pom.xml" />
         <option value="$PROJECT_DIR$/chapter2/eureka-client/pom.xml" />
         <option value="$PROJECT_DIR$/chapter2/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter2/service-ribbon1/pom.xml" />
       </list>
     </option>
   </component>

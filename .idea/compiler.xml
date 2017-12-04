@@ -12,7 +12,7 @@
         <module name="eureka-client (1)" />
         <module name="eureka-server" />
         <module name="eureka-server (1)" />
-        <module name="service-ribbon" />
+        <module name="service-ribbon1" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -24,6 +24,7 @@
       <module name="eureka-server (1)" target="1.8" />
       <module name="eurekaserver" target="1.5" />
       <module name="service-ribbon" target="1.8" />
+      <module name="service-ribbon1" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
