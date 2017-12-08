@@ -1,6 +1,6 @@
 # zhouSpringCloudLeaning
 学习SpringCloud
-《史上最简单的 SpringCloud 教程》系列：
+《史上最简单的 SpringCloud 教程》系列：http://blog.csdn.net/forezp/article/details/70148833
 
     史上最简单的SpringCloud教程 | 第一篇: 服务的注册与发现（Eureka）
     史上最简单的SpringCloud教程 | 第二篇: 服务消费者（rest+ribbon）
