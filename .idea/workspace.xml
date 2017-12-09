@@ -2,6 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13f4ba59-2479-4560-8759-9ce44d6fbf99" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/chapter4/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/chapter5/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/chapter5/.idea/encodings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/chapter5/.idea/inspectionProfiles/Project_Default.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/chapter5/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/chapter5/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/chapter5/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/chapter5/chapter5.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/eurekaserver/target/" />
@@ -57,7 +65,7 @@
         <entry file="file://$PROJECT_DIR$/chapter5/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="37" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+              <caret line="7" column="37" lean-forward="false" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -207,6 +215,9 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -223,9 +234,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -417,10 +425,10 @@
       <item index="0" class="java.lang.String" itemvalue="Spring Boot.ServiceRibbonApplication" />
       <item index="1" class="java.lang.String" itemvalue="Spring Boot.ServiceRibbon1Application" />
       <item index="2" class="java.lang.String" itemvalue="Spring Boot.Demo1Application" />
-      <item index="3" class="java.lang.String" itemvalue="Application.EurekaClientApplication" />
-      <item index="4" class="java.lang.String" itemvalue="Application.EurekaServerApplication" />
-      <item index="5" class="java.lang.String" itemvalue="Spring Boot.EurekaClientApplication" />
-      <item index="6" class="java.lang.String" itemvalue="Spring Boot.EurekaServerApplication" />
+      <item index="3" class="java.lang.String" itemvalue="Spring Boot.EurekaClientApplication" />
+      <item index="4" class="java.lang.String" itemvalue="Spring Boot.EurekaServerApplication" />
+      <item index="5" class="java.lang.String" itemvalue="Application.EurekaClientApplication" />
+      <item index="6" class="java.lang.String" itemvalue="Application.EurekaServerApplication" />
     </list>
     <recent_temporary>
       <list size="2">
@@ -450,7 +458,8 @@
       <workItem from="1512726140133" duration="1839000" />
       <workItem from="1512751836093" duration="138000" />
       <workItem from="1512821805296" duration="152000" />
-      <workItem from="1512823013791" duration="743000" />
+      <workItem from="1512823013791" duration="1234000" />
+      <workItem from="1512824855919" duration="88000" />
     </task>
     <task id="LOCAL-00001" summary="创建服务注册中心">
       <created>1512245314730</created>
@@ -592,11 +601,18 @@
       <option name="project" value="LOCAL" />
       <updated>1512823329311</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="spring cloud">
+      <created>1512823803702</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1512823803702</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43777000" />
+    <option name="totallyTimeSpent" value="44356000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -617,7 +633,7 @@
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26866764" sideWeight="0.49118388" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928678" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962063" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -649,7 +665,8 @@
     <MESSAGE value="spring cloud 学习" />
     <MESSAGE value="feign" />
     <MESSAGE value="spring cloud" />
-    <option name="LAST_COMMIT_MESSAGE" value="spring cloud" />
+    <MESSAGE value="路由网关zuul" />
+    <option name="LAST_COMMIT_MESSAGE" value="路由网关zuul" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -942,7 +959,7 @@
     <entry file="file://$PROJECT_DIR$/chapter5/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="37" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+          <caret line="7" column="37" lean-forward="false" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
           <folding />
         </state>
       </provider>
