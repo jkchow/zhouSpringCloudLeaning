@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13f4ba59-2479-4560-8759-9ce44d6fbf99" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/chapter4/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/chapter5/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/chapter5/.idea/encodings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/chapter5/.idea/inspectionProfiles/Project_Default.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/chapter5/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/chapter5/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/chapter5/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/chapter5/chapter5.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="13f4ba59-2479-4560-8759-9ce44d6fbf99" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/eurekaserver/target/" />
     <ignored path="$PROJECT_DIR$/chapter1/target/" />
     <ignored path="$PROJECT_DIR$/chapter1/eureka-server/target/" />
@@ -243,7 +233,7 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/Software/TortoiseSVN/bin/svn.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/chapter5" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelOrder0" value="0" />
@@ -459,7 +449,7 @@
       <workItem from="1512751836093" duration="138000" />
       <workItem from="1512821805296" duration="152000" />
       <workItem from="1512823013791" duration="1234000" />
-      <workItem from="1512824855919" duration="88000" />
+      <workItem from="1512824855919" duration="200000" />
     </task>
     <task id="LOCAL-00001" summary="创建服务注册中心">
       <created>1512245314730</created>
@@ -608,11 +598,18 @@
       <option name="project" value="LOCAL" />
       <updated>1512823803702</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="路由网关zuul">
+      <created>1512824956506</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1512824956506</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44356000" />
+    <option name="totallyTimeSpent" value="44468000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
