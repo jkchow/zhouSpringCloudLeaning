@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73d8a680-f404-4d66-81b3-abb03ddba1d2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" />
-    </list>
+    <list default="true" id="73d8a680-f404-4d66-81b3-abb03ddba1d2" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/eureka-server/target/" />
@@ -413,7 +411,7 @@
       <updated>1512751919688</updated>
       <workItem from="1512751923944" duration="5613000" />
       <workItem from="1512825836989" duration="2018000" />
-      <workItem from="1512833047402" duration="850000" />
+      <workItem from="1512833047402" duration="1375000" />
     </task>
     <task id="LOCAL-00001" summary="Hystrix组件，实现了断路器">
       <created>1512753143600</created>
@@ -454,7 +452,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8481000" />
+    <option name="totallyTimeSpent" value="9006000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
