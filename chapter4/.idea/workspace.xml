@@ -3,15 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="73d8a680-f404-4d66-81b3-abb03ddba1d2" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../chapter5/.idea/compiler.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../chapter5/.idea/encodings.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../chapter5/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../chapter5/.idea/misc.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../chapter5/.idea/modules.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../chapter5/.idea/workspace.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../chapter5/chapter5.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../chapter5/pom.xml" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -87,8 +78,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/serice-feign/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="57" column="23" lean-forward="true" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="23" />
+            <state relative-caret-position="423">
+              <caret line="74" column="23" lean-forward="false" selection-start-line="74" selection-start-column="23" selection-end-line="74" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -197,10 +188,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-13" />
-    <option name="y" value="61" />
-    <option name="width" value="809" />
-    <option name="height" value="631" />
+    <option name="x" value="163" />
+    <option name="y" value="25" />
+    <option name="width" value="1219" />
+    <option name="height" value="737" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -248,11 +239,6 @@
               <item name="chapter4" type="b2602c69:ProjectViewProjectNode" />
               <item name="chapter4" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="chapter4" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chapter4" type="462c0819:PsiDirectoryNode" />
-              <item name="serice-feign" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -269,7 +255,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../chapter5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelWidth1" value="75" />
@@ -427,7 +413,7 @@
       <updated>1512751919688</updated>
       <workItem from="1512751923944" duration="5613000" />
       <workItem from="1512825836989" duration="2018000" />
-      <workItem from="1512833047402" duration="662000" />
+      <workItem from="1512833047402" duration="850000" />
     </task>
     <task id="LOCAL-00001" summary="Hystrix组件，实现了断路器">
       <created>1512753143600</created>
@@ -457,15 +443,21 @@
       <option name="project" value="LOCAL" />
       <updated>1512757129325</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="spring cloud">
+      <created>1512833808052</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1512833808052</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8293000" />
+    <option name="totallyTimeSpent" value="8481000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -487,7 +479,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25549048" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25549048" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -512,7 +504,8 @@
     <MESSAGE value="Hystrix组件，实现了在ribbon使用断路器" />
     <MESSAGE value="Hystrix组件，实现Feign中使用断路器" />
     <MESSAGE value="Hystrix组件，实现ribbon中使用断路器(断路器：Hystrix 仪表盘)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hystrix组件，实现ribbon中使用断路器(断路器：Hystrix 仪表盘)" />
+    <MESSAGE value="spring cloud" />
+    <option name="LAST_COMMIT_MESSAGE" value="spring cloud" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -809,8 +802,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/serice-feign/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="57" column="23" lean-forward="true" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="23" />
+        <state relative-caret-position="423">
+          <caret line="74" column="23" lean-forward="false" selection-start-line="74" selection-start-column="23" selection-end-line="74" selection-end-column="23" />
           <folding />
         </state>
       </provider>
