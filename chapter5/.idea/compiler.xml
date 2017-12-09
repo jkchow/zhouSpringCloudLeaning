@@ -11,6 +11,7 @@
         <module name="service-feign" />
         <module name="service-hi" />
         <module name="service-ribbon" />
+        <module name="service-zuul" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -19,6 +20,7 @@
       <module name="service-feign" target="1.8" />
       <module name="service-hi" target="1.8" />
       <module name="service-ribbon" target="1.8" />
+      <module name="service-zuul" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
