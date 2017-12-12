@@ -12,6 +12,7 @@
         <module name="chapter5" />
         <module name="chapter6" />
         <module name="chapter7" />
+        <module name="chapter8" />
         <module name="eureka-client" />
         <module name="eureka-server" />
         <module name="service-ribbon1" />
@@ -24,6 +25,7 @@
       <module name="chapter5" target="1.5" />
       <module name="chapter6" target="1.5" />
       <module name="chapter7" target="1.5" />
+      <module name="chapter8" target="1.5" />
       <module name="demo1" target="1.8" />
       <module name="eureka-client" target="1.8" />
       <module name="eureka-client (1)" target="1.8" />
