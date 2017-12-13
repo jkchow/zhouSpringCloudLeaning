@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8e2e339-7e2b-4bae-96ed-35d36fb54f8f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/config-client/src/main/java/com/juzhen/testRabbitMQ/Customer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config-client/src/main/java/com/juzhen/testRabbitMQ/Producer.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_rabbitmq_amqp_client_4_0_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_rabbitmq_amqp_client_3_6_5.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/config-client/pom.xml" afterPath="$PROJECT_DIR$/config-client/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/config-client/src/main/java/com/juzhen/testRabbitMQ/Producer.java" afterPath="$PROJECT_DIR$/config-client/src/main/java/com/juzhen/testRabbitMQ/Producer.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/eureka-server/target/" />
@@ -27,18 +24,18 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config-client/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="470">
+            <state relative-caret-position="1173">
               <caret line="69" column="24" lean-forward="false" selection-start-line="69" selection-start-column="24" selection-end-line="69" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Producer.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Producer.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config-client/src/main/java/com/juzhen/testRabbitMQ/Producer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="56" lean-forward="false" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="56" />
+            <state relative-caret-position="255">
+              <caret line="25" column="61" lean-forward="false" selection-start-line="25" selection-start-column="61" selection-end-line="25" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -46,24 +43,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Customer.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Customer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config-client/src/main/java/com/juzhen/testRabbitMQ/Customer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="8" column="61" lean-forward="true" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
+            <state relative-caret-position="221">
+              <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AMQConnection.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/3.6.5/amqp-client-3.6.5.jar!/com/rabbitmq/client/impl/AMQConnection.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="338" column="0" lean-forward="false" selection-start-line="338" selection-start-column="0" selection-end-line="338" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -71,7 +58,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/eureka-server/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-153">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -81,7 +68,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config-server/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-102">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -152,8 +139,8 @@
         <option value="$PROJECT_DIR$/config-client/src/main/java/com/juzhen/ConfigClientApplication.java" />
         <option value="$PROJECT_DIR$/config-client/src/main/java/com/juzhen/testRabbitMQ/Sender.java" />
         <option value="$PROJECT_DIR$/config-client/pom.xml" />
-        <option value="$PROJECT_DIR$/config-client/src/main/java/com/juzhen/testRabbitMQ/Producer.java" />
         <option value="$PROJECT_DIR$/config-client/src/main/java/com/juzhen/testRabbitMQ/Customer.java" />
+        <option value="$PROJECT_DIR$/config-client/src/main/java/com/juzhen/testRabbitMQ/Producer.java" />
       </list>
     </option>
   </component>
@@ -226,8 +213,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -295,7 +283,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -331,7 +318,7 @@
     </option>
     <option name="contentProportion" value="0.26129517" />
   </component>
-  <component name="RunManager" selected="Application.Customer">
+  <component name="RunManager" selected="Application.Producer">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -478,8 +465,8 @@
     </list>
     <recent_temporary>
       <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Application.Customer" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Producer" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Producer" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Customer" />
       </list>
     </recent_temporary>
   </component>
@@ -498,7 +485,8 @@
       <updated>1513048431659</updated>
       <workItem from="1513048433911" duration="666000" />
       <workItem from="1513078624281" duration="5402000" />
-      <workItem from="1513095839600" duration="4526000" />
+      <workItem from="1513095839600" duration="4659000" />
+      <workItem from="1513130985293" duration="1322000" />
     </task>
     <task id="LOCAL-00001" summary="cha">
       <created>1513048478892</created>
@@ -514,11 +502,18 @@
       <option name="project" value="LOCAL" />
       <updated>1513084121952</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="spring cloud bus">
+      <created>1513100397659</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1513100397659</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10594000" />
+    <option name="totallyTimeSpent" value="12049000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -542,7 +537,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40614888" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28640777" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881355" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25036603" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -576,6 +571,178 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/config-client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="69" column="24" lean-forward="false" selection-start-line="69" selection-start-column="24" selection-end-line="69" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-client/src/main/java/com/juzhen/testRabbitMQ/Producer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="56" lean-forward="false" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/3.6.5/amqp-client-3.6.5.jar!/com/rabbitmq/client/impl/AMQConnection.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5746">
+          <caret line="338" column="0" lean-forward="false" selection-start-line="338" selection-start-column="0" selection-end-line="338" selection-end-column="0" />
+          <folding>
+            <marker date="1513096457379" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1513096457379" expanded="false" signature="148:2010" ph="..." />
+            <marker date="1513096457379" expanded="true" signature="2537:2688" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="2605:2682" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="3993:4965" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="5025:5165" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="5229:5345" ph="{...}" />
+            <marker date="1513096457379" expanded="false" signature="5382:5393" ph=" { " />
+            <marker date="1513096457379" expanded="false" signature="5432:5438" ph=" }" />
+            <marker date="1513096457379" expanded="false" signature="5480:5491" ph=" { " />
+            <marker date="1513096457379" expanded="false" signature="5535:5541" ph=" }" />
+            <marker date="1513096457379" expanded="false" signature="5567:5578" ph=" { " />
+            <marker date="1513096457379" expanded="false" signature="5614:5620" ph=" }" />
+            <marker date="1513096457379" expanded="false" signature="5651:5662" ph=" { " />
+            <marker date="1513096457379" expanded="false" signature="5703:5709" ph=" }" />
+            <marker date="1513096457379" expanded="false" signature="5752:5763" ph=" { " />
+            <marker date="1513096457379" expanded="false" signature="5789:5795" ph=" }" />
+            <marker date="1513096457379" expanded="false" signature="5849:5860" ph=" { " />
+            <marker date="1513096457379" expanded="false" signature="5890:5896" ph=" }" />
+            <marker date="1513096457379" expanded="true" signature="5975:7105" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="7156:7292" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="7339:7463" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="7526:12243" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="12345:12532" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="12612:12686" ph="{...}" />
+            <marker date="1513096457379" expanded="false" signature="12732:12743" ph=" { " />
+            <marker date="1513096457379" expanded="false" signature="12775:12781" ph=" }" />
+            <marker date="1513096457379" expanded="true" signature="12814:12923" ph="{...}" />
+            <marker date="1513096457379" expanded="false" signature="12953:12964" ph=" { " />
+            <marker date="1513096457379" expanded="false" signature="12986:12992" ph=" }" />
+            <marker date="1513096457379" expanded="false" signature="13023:13034" ph=" { " />
+            <marker date="1513096457379" expanded="false" signature="13057:13063" ph=" }" />
+            <marker date="1513096457379" expanded="true" signature="13109:13361" ph="{...}" />
+            <marker date="1513096457379" expanded="false" signature="13424:13435" ph=" { " />
+            <marker date="1513096457379" expanded="false" signature="13470:13476" ph=" }" />
+            <marker date="1513096457379" expanded="false" signature="13521:13532" ph=" { " />
+            <marker date="1513096457379" expanded="false" signature="13558:13564" ph=" }" />
+            <marker date="1513096457379" expanded="false" signature="13618:13629" ph=" { " />
+            <marker date="1513096457379" expanded="false" signature="13672:13678" ph=" }" />
+            <marker date="1513096457379" expanded="false" signature="13721:13732" ph=" { " />
+            <marker date="1513096457379" expanded="false" signature="13793:13799" ph=" }" />
+            <marker date="1513096457379" expanded="false" signature="13850:13861" ph=" { " />
+            <marker date="1513096457379" expanded="false" signature="13891:13897" ph=" }" />
+            <marker date="1513096457379" expanded="false" signature="13948:13959" ph=" { " />
+            <marker date="1513096457379" expanded="false" signature="14006:14012" ph=" }" />
+            <marker date="1513096457379" expanded="true" signature="14085:14245" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="14301:14446" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="14503:14600" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="14645:14688" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="14766:14900" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="14971:15347" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="15420:17234" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="17296:18104" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="18233:18402" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="18537:19024" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="19087:19215" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="19260:19291" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="19347:19394" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="19473:19529" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="19621:19712" ph="{...}" />
+            <marker date="1513096457379" expanded="false" signature="19737:19748" ph=" { " />
+            <marker date="1513096457379" expanded="false" signature="19763:19769" ph=" }" />
+            <marker date="1513096457379" expanded="false" signature="19828:19839" ph=" { " />
+            <marker date="1513096457379" expanded="false" signature="19879:19885" ph=" }" />
+            <marker date="1513096457379" expanded="false" signature="19921:19932" ph=" { " />
+            <marker date="1513096457379" expanded="false" signature="19963:19969" ph=" }" />
+            <marker date="1513096457379" expanded="true" signature="20042:20212" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="20340:20434" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="20590:22196" ph="{...}" />
+            <marker date="1513096457379" expanded="false" signature="21060:21182" ph="transformReply(command) → {" />
+            <marker date="1513096457379" expanded="false" signature="21315:21342" ph="}" />
+            <marker date="1513096457379" expanded="true" signature="22227:22449" ph="{...}" />
+            <marker date="1513096457379" expanded="false" signature="22486:22497" ph=" { " />
+            <marker date="1513096457379" expanded="false" signature="22574:22580" ph=" }" />
+            <marker date="1513096457379" expanded="false" signature="22642:22653" ph=" { " />
+            <marker date="1513096457379" expanded="false" signature="22689:22695" ph=" }" />
+            <marker date="1513096457379" expanded="false" signature="22763:22774" ph=" { " />
+            <marker date="1513096457379" expanded="false" signature="22820:22826" ph=" }" />
+            <marker date="1513096457379" expanded="false" signature="22867:22878" ph=" { " />
+            <marker date="1513096457379" expanded="false" signature="22908:22914" ph=" }" />
+            <marker date="1513096457379" expanded="true" signature="22970:23620" ph="{...}" />
+            <marker date="1513096457379" expanded="false" signature="23085:23100" ph=" { " />
+            <marker date="1513096457379" expanded="false" signature="23117:23127" ph=" }" />
+            <marker date="1513096457379" expanded="true" signature="23155:23614" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="23669:25710" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="23698:23709" ph="{}" />
+            <marker date="1513096457379" expanded="true" signature="23737:25704" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-client/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-client/src/main/java/com/juzhen/ConfigClientApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="12" column="58" lean-forward="false" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-server/src/main/java/com/juzhen/ConfigServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-client/src/main/java/com/juzhen/testRabbitMQ/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="61" lean-forward="true" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/config-client/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="816">
@@ -628,7 +795,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -644,7 +810,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -691,7 +856,7 @@
     <entry file="file://$PROJECT_DIR$/config-client/src/main/java/com/juzhen/testRabbitMQ/Sender.java" />
     <entry file="file://$PROJECT_DIR$/config-server/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-102">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -699,7 +864,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/eureka-server/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-153">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -715,7 +880,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config-client/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
+        <state relative-caret-position="1173">
           <caret line="69" column="24" lean-forward="false" selection-start-line="69" selection-start-column="24" selection-end-line="69" selection-end-column="24" />
           <folding />
         </state>
@@ -723,26 +888,114 @@
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/3.6.5/amqp-client-3.6.5.jar!/com/rabbitmq/client/impl/AMQConnection.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
+        <state relative-caret-position="4488">
           <caret line="338" column="0" lean-forward="false" selection-start-line="338" selection-start-column="0" selection-end-line="338" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config-client/src/main/java/com/juzhen/testRabbitMQ/Producer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="56" lean-forward="false" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="56" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <marker date="1513096457379" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1513096457379" expanded="false" signature="148:2010" ph="..." />
+            <marker date="1513096457379" expanded="true" signature="2537:2688" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="2605:2682" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="3993:4965" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="5025:5165" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="5229:5345" ph="{...}" />
+            <marker date="1513096457379" expanded="false" signature="5382:5393" ph=" { " />
+            <marker date="1513096457379" expanded="false" signature="5432:5438" ph=" }" />
+            <marker date="1513096457379" expanded="false" signature="5480:5491" ph=" { " />
+            <marker date="1513096457379" expanded="false" signature="5535:5541" ph=" }" />
+            <marker date="1513096457379" expanded="false" signature="5567:5578" ph=" { " />
+            <marker date="1513096457379" expanded="false" signature="5614:5620" ph=" }" />
+            <marker date="1513096457379" expanded="false" signature="5651:5662" ph=" { " />
+            <marker date="1513096457379" expanded="false" signature="5703:5709" ph=" }" />
+            <marker date="1513096457379" expanded="false" signature="5752:5763" ph=" { " />
+            <marker date="1513096457379" expanded="false" signature="5789:5795" ph=" }" />
+            <marker date="1513096457379" expanded="false" signature="5849:5860" ph=" { " />
+            <marker date="1513096457379" expanded="false" signature="5890:5896" ph=" }" />
+            <marker date="1513096457379" expanded="true" signature="5975:7105" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="7156:7292" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="7339:7463" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="7526:12243" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="12345:12532" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="12612:12686" ph="{...}" />
+            <marker date="1513096457379" expanded="false" signature="12732:12743" ph=" { " />
+            <marker date="1513096457379" expanded="false" signature="12775:12781" ph=" }" />
+            <marker date="1513096457379" expanded="true" signature="12814:12923" ph="{...}" />
+            <marker date="1513096457379" expanded="false" signature="12953:12964" ph=" { " />
+            <marker date="1513096457379" expanded="false" signature="12986:12992" ph=" }" />
+            <marker date="1513096457379" expanded="false" signature="13023:13034" ph=" { " />
+            <marker date="1513096457379" expanded="false" signature="13057:13063" ph=" }" />
+            <marker date="1513096457379" expanded="true" signature="13109:13361" ph="{...}" />
+            <marker date="1513096457379" expanded="false" signature="13424:13435" ph=" { " />
+            <marker date="1513096457379" expanded="false" signature="13470:13476" ph=" }" />
+            <marker date="1513096457379" expanded="false" signature="13521:13532" ph=" { " />
+            <marker date="1513096457379" expanded="false" signature="13558:13564" ph=" }" />
+            <marker date="1513096457379" expanded="false" signature="13618:13629" ph=" { " />
+            <marker date="1513096457379" expanded="false" signature="13672:13678" ph=" }" />
+            <marker date="1513096457379" expanded="false" signature="13721:13732" ph=" { " />
+            <marker date="1513096457379" expanded="false" signature="13793:13799" ph=" }" />
+            <marker date="1513096457379" expanded="false" signature="13850:13861" ph=" { " />
+            <marker date="1513096457379" expanded="false" signature="13891:13897" ph=" }" />
+            <marker date="1513096457379" expanded="false" signature="13948:13959" ph=" { " />
+            <marker date="1513096457379" expanded="false" signature="14006:14012" ph=" }" />
+            <marker date="1513096457379" expanded="true" signature="14085:14245" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="14301:14446" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="14503:14600" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="14645:14688" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="14766:14900" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="14971:15347" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="15420:17234" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="17296:18104" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="18233:18402" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="18537:19024" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="19087:19215" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="19260:19291" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="19347:19394" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="19473:19529" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="19621:19712" ph="{...}" />
+            <marker date="1513096457379" expanded="false" signature="19737:19748" ph=" { " />
+            <marker date="1513096457379" expanded="false" signature="19763:19769" ph=" }" />
+            <marker date="1513096457379" expanded="false" signature="19828:19839" ph=" { " />
+            <marker date="1513096457379" expanded="false" signature="19879:19885" ph=" }" />
+            <marker date="1513096457379" expanded="false" signature="19921:19932" ph=" { " />
+            <marker date="1513096457379" expanded="false" signature="19963:19969" ph=" }" />
+            <marker date="1513096457379" expanded="true" signature="20042:20212" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="20340:20434" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="20590:22196" ph="{...}" />
+            <marker date="1513096457379" expanded="false" signature="21060:21182" ph="transformReply(command) → {" />
+            <marker date="1513096457379" expanded="false" signature="21315:21342" ph="}" />
+            <marker date="1513096457379" expanded="true" signature="22227:22449" ph="{...}" />
+            <marker date="1513096457379" expanded="false" signature="22486:22497" ph=" { " />
+            <marker date="1513096457379" expanded="false" signature="22574:22580" ph=" }" />
+            <marker date="1513096457379" expanded="false" signature="22642:22653" ph=" { " />
+            <marker date="1513096457379" expanded="false" signature="22689:22695" ph=" }" />
+            <marker date="1513096457379" expanded="false" signature="22763:22774" ph=" { " />
+            <marker date="1513096457379" expanded="false" signature="22820:22826" ph=" }" />
+            <marker date="1513096457379" expanded="false" signature="22867:22878" ph=" { " />
+            <marker date="1513096457379" expanded="false" signature="22908:22914" ph=" }" />
+            <marker date="1513096457379" expanded="true" signature="22970:23620" ph="{...}" />
+            <marker date="1513096457379" expanded="false" signature="23085:23100" ph=" { " />
+            <marker date="1513096457379" expanded="false" signature="23117:23127" ph=" }" />
+            <marker date="1513096457379" expanded="true" signature="23155:23614" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="23669:25710" ph="{...}" />
+            <marker date="1513096457379" expanded="true" signature="23698:23709" ph="{}" />
+            <marker date="1513096457379" expanded="true" signature="23737:25704" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config-client/src/main/java/com/juzhen/testRabbitMQ/Customer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="8" column="61" lean-forward="true" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
+        <state relative-caret-position="221">
+          <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-client/src/main/java/com/juzhen/testRabbitMQ/Producer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="25" column="61" lean-forward="false" selection-start-line="25" selection-start-column="61" selection-end-line="25" selection-end-column="61" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
