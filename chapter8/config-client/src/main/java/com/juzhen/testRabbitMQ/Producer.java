@@ -5,7 +5,8 @@ import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
 import com.rabbitmq.client.ConnectionFactory;
 
-/**消息的生产者
+/**
+ * 消息的生产者
  *
  */
 public class Producer {
