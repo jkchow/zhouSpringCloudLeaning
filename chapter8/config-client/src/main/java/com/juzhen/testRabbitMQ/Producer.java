@@ -25,7 +25,7 @@ public class Producer {
         Channel channel = connection.createChannel();
         //  声明一个队列
         channel.queueDeclare(QUEUE_NAME, false, false, true, null);
-        String message = "Hello RabbitMQ,哈哈哈嘻嘻dfd";
+        String message = "Hello RabbitMQ,";
         //发送消息到队列中
         channel.basicPublish("", QUEUE_NAME, null, message.getBytes("UTF-8"));
         //注1：queueDeclare第一个参数表示队列名称、
