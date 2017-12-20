@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13f4ba59-2479-4560-8759-9ce44d6fbf99" name="Default" comment="spring cloud">
-      <change beforePath="" afterPath="$PROJECT_DIR$/chapter9/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/chapter9/.idea/encodings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/chapter9/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/chapter9/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/chapter9/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/chapter9/.idea/workspace.xml" />
+    <list default="true" id="13f4ba59-2479-4560-8759-9ce44d6fbf99" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/chapter9/.idea/workspace.xml" afterPath="$PROJECT_DIR$/chapter9/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/eurekaserver/target/" />
     <ignored path="$PROJECT_DIR$/chapter1/target/" />
@@ -461,7 +456,7 @@
       <workItem from="1512997875243" duration="281000" />
       <workItem from="1513008097914" duration="780000" />
       <workItem from="1513044797624" duration="1361000" />
-      <workItem from="1513792703734" duration="383000" />
+      <workItem from="1513792703734" duration="458000" />
     </task>
     <task id="LOCAL-00001" summary="创建服务注册中心">
       <created>1512245314730</created>
@@ -659,11 +654,18 @@
       <option name="project" value="LOCAL" />
       <updated>1513044944767</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="spring cloud">
+      <created>1513793104721</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1513793104721</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49029000" />
+    <option name="totallyTimeSpent" value="49104000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />

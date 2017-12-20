@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="chapter9" />
+        <module name="server-zipkin" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="chapter9" target="1.5" />
+      <module name="server-zipkin" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
