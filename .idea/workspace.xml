@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13f4ba59-2479-4560-8759-9ce44d6fbf99" name="Default" comment="spring cloud">
-      <change beforePath="" afterPath="$PROJECT_DIR$/chapter9/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/chapter9/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/chapter9/.idea/encodings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/chapter9/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/chapter9/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/chapter9/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/chapter9/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/chapter8/.idea/workspace.xml" afterPath="$PROJECT_DIR$/chapter8/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/chapter8/config-client/src/main/java/com/juzhen/testRabbitMQ/Producer.java" afterPath="$PROJECT_DIR$/chapter8/config-client/src/main/java/com/juzhen/testRabbitMQ/Producer.java" />
-      <change beforePath="$PROJECT_DIR$/chapter8/config-client/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/chapter8/config-client/src/main/resources/application.properties" />
     </list>
     <ignored path="$PROJECT_DIR$/eurekaserver/target/" />
     <ignored path="$PROJECT_DIR$/chapter1/target/" />
@@ -462,7 +461,7 @@
       <workItem from="1512997875243" duration="281000" />
       <workItem from="1513008097914" duration="780000" />
       <workItem from="1513044797624" duration="1361000" />
-      <workItem from="1513792703734" duration="182000" />
+      <workItem from="1513792703734" duration="383000" />
     </task>
     <task id="LOCAL-00001" summary="创建服务注册中心">
       <created>1512245314730</created>
@@ -664,7 +663,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48828000" />
+    <option name="totallyTimeSpent" value="49029000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
