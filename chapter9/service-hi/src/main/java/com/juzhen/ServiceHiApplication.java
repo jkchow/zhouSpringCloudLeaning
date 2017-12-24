@@ -39,7 +39,6 @@ public class ServiceHiApplication {
 	@RequestMapping("/info")
 	public String info(){
 		LOG.log(Level.INFO, "calling trace service-hi ");
-
 		return "i'm service-hi";
 
 	}
